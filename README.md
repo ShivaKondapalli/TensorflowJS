@@ -18,7 +18,7 @@ the model returns the class that has the closest activation to the image we had 
 
 TensflowJS is ridiculosuly simple, no virtual environments, IDE's,ananconda or pyenv distributions or expensive GPU's. 
 All you need is a text editor! Submile Text, Atom what have you. Create two files **index.html** and **index.js**. Copy paste
-the code you find in this repo into both of them. Open **index.html** your favortie broswer, and your good to go!
+the code you find in this repo into both of them. Open **index.html** on your favortie broswer, and your good to go!
 
 # DEMO 
 Here is a link to the app https://youtu.be/KrnZthU4Jgo
